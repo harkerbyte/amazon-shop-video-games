@@ -39,6 +39,5 @@
 [![License](https://img.shields.io/badge/License-MIT-blue)](#license)
 
 
-_Call-to-Action buttons_
 
 <div align="center">
