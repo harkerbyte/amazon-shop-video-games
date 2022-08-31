@@ -1,7 +1,8 @@
 ## web-shop-video-games
 
-   A python file that scraps data from a shop video games category on amazon
-   
+   A python file that scraps data from a shop video games category on amazon</br>
+   https://www.amazon.com/b?node=16225016011&pf_rd_r=RXRPTNRAQK404Q1CNC2F&pf_rd_p=e5b0c85f-569c-4c90-a58f-0c0a260e45a0&pd_rd_r=dd196104-0d5f-4994-8a01-553b24b413e0&pd_rd_w=eJWFx&pd_rd_wg=BrpEz&ref_=pd_gw_unk
+
 ## Legal 
    YES 
    
