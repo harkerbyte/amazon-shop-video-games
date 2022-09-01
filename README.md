@@ -19,6 +19,7 @@
 ```
   apt update 
   apt upgrade 
+  pip install attrs
   pkg install python3 -y 
   pip install selenium
   pip install pandas 
