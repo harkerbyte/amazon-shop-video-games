@@ -32,6 +32,10 @@
    products.txt __ YES</br>
    head to your root file directory and search for products.txt / products text { if it couldn't find the file }</br>
    
+## Connect with me 
+
+* <a href=https://facebook.com/cyberhacks6>Facebook page</a>
+* <a href=https://facebook.com/shade234sherif>Main fb acc</a></br>
  _Social buttons_
 
 [![shade234sherif - web-shop-video-games ](https://img.shields.io/static/v1?label=shade234sherif&message=web-shop-video-games+&color=blue&logo=github)](https://github.com/shade234sherif/web-shop-video-games  "Go to GitHub repo")
