@@ -1,7 +1,7 @@
 ## web-shop-video-games
 
    A python file that scraps data from a shop video games category on amazon</br>
-   https://www.amazon.com
+   
 
 ## Legal 
    YES 
