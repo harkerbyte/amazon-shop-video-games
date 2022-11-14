@@ -1,7 +1,7 @@
 ## web-shop-video-games
 
    A python file that scraps data from a shop video games category on amazon</br>
-   
+   https://www.amazon.com 
 
 ## Legal 
    YES 
@@ -30,7 +30,7 @@
 ```
 ## What is my file saved as 
    products.txt __ YES</br>
-   head to your root file directory and search for products.txt / products text { if it couldn't find the file }</br>
+   head to your root file directory and search for products.txt / products text { if you couldn't find the file }</br>
    
 ## Connect with me 
 
