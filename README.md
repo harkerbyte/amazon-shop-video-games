@@ -24,7 +24,7 @@
   pip install selenium
   pip install pandas 
   pip install beautifulsoup4 
-  git clone https://github.com/shade234sherif/web-shop-video-games 
+  git clone https://github.com/harkerbyte/web-shop-video-games 
   python3 scrap.py
   
 ```
@@ -34,7 +34,7 @@
    
 ## Connect with me 
 
-* <a href=https://facebook.com/cyberhacks6>Facebook page</a>
+* <a href=https://facebook.com/harkerbyte>Facebook page</a>
 * <a href=https://facebook.com/shade234sherif>Main fb acc</a></br>
  _Social buttons_
 
